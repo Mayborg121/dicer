@@ -45,5 +45,6 @@ Alternatively, you can play the game directly [here](https://mayborg121.github.i
 
 Have Fun Playing...!
 
-![image](https://github.com/user-attachments/assets/5ffb1028-d821-459f-afaf-b146c907e10b)
+![image](https://github.com/user-attachments/assets/24659b46-a6fd-4732-b18a-9905a961a240)
+
 
