@@ -1,4 +1,3 @@
-Here's the updated GitHub README template for your dice rolling game:
 
 ---
 
