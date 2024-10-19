@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <link rel="icon" type="image/x-icon" href="img/favicon.png">
+    <title>Dice Roller</title>
+</head>
+<body>
+    <div id="container">
+        <h1>Dice Roller</h1>
+        
+        <div id="inputnlabel">
+            <label for="numOfDice">No. of Dice</label>
+            <input type="number" name="numOfDice" id="numOfDice" min="1" max="6" value="1">
+        </div>
+        
+        <div id="diceImg"></div>
+        <div id="diceResults"> </div>
+
+        <br>
+        <button onclick="rollDice()">Roll</button>
+
+        <script src="script.js"></script>
+    </div>
+
+    <footer>
+        
+        <hr>
+        <div id="footertext">
+        <P id="footercontent">
+            Made With ❤️ by <a href="https://github.com/Mayborg121" style="text-decoration: none;color: #66053f;font-weight: bold;">MAYBORG</a> <span style="border-left: 2px solid black; height: 7px;"></span> &nbsp;© 2024 <br>
+    
+        </P>
+        </div>
+    </footer>
+</body>
+</html>
